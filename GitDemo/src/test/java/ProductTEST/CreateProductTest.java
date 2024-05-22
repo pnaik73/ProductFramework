@@ -6,6 +6,6 @@ public class CreateProductTest {
 
 	@Test
 	public void createProductTest() {
-	System.out.println("product page");	
+	System.out.println("product page created");	
 	}
 }
